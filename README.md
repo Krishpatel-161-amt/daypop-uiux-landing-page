@@ -90,8 +90,3 @@ daypop-uiux-landing-page/
     └── design-rationale.md
 ```
 
-## Project scope
-
-This is a **Figma UI/UX design project**, not a coded or functional production application. Buttons and dashboard metrics demonstrate proposed UI states. Daypop, its user profile, and its product claims are fictional. A live website is not included.
-
-
